@@ -1,0 +1,19 @@
+body {
+    background-color: #141414;
+}
+
+.maindiv {
+    background-color: #1F1F1F;
+    border-radius: 12px;
+    width: 350px;
+    height: 550px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.maindiv img {
+    width: 90px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 40px 135px;
+}
