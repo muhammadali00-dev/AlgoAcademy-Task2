@@ -15,5 +15,22 @@ body {
     width: 90px;
     border-radius: 50%;
     display: inline-block;
-    margin: 40px 135px;
+    margin: 40px 130px 0;
+}
+
+.maindiv h2 {
+    color: white;
+    margin: 20px 82px 0;
+}
+
+.maindiv p:first-of-type {
+    color: #C4F82A;
+    margin: 10px 85px 0;
+    font-weight: 500;
+}
+
+.maindiv p:last-of-type {
+    color: #E0E0E0;
+    margin: 20px 32px 0;
+    font-weight: 400;
 }
